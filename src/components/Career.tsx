@@ -21,9 +21,10 @@ const Career = () => {
               <h3>2020</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Built multiple web development projects including a personal
+              portfolio website using modern frontend technologies. Focused 
+              on creating responsive layouts, smooth navigation, and clean 
+              UI design using HTML, CSS, and JavaScript.
             </p>
           </div>
           <div className="career-info-box">
@@ -35,9 +36,10 @@ const Career = () => {
               <h3>2021</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Practicing Data Structures and Algorithms regularly using Java.
+              Solved various coding problems related to arrays, strings, recursion, 
+              and other core programming concepts to strengthen problem-solving and 
+              logical thinking skills.
             </p>
           </div>
           <div className="career-info-box">
@@ -49,9 +51,10 @@ const Career = () => {
               <h3>NOW</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Actively learning modern frontend development technologies including 
+              React.js and improving knowledge of full-stack development. Building 
+              projects and exploring tools like Git and GitHub to manage and showcase 
+              development work.
             </p>
           </div>
         </div>
